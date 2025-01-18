@@ -1,4 +1,4 @@
-# Site para Andréia - Vi
+# Site para Vi
 
 Este repositório contém um site pessoal dedicado à minha vida. O objetivo deste site é centralizar todos os textos, memórias e momentos especiais que passamos juntos. Ele foi criado com carinho para eternizar nossas lembranças e expressar todo o meu amor por ela.
 
