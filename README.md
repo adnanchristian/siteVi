@@ -27,8 +27,5 @@ Este repositório contém um site pessoal dedicado à minha vida. O objetivo des
    - "Aniversário 2024"
    - "365 Motivos"
 3. Explore os textos e memórias, e sinta-se à vontade para compartilhar o link com amigos e familiares.
-4. Use o QR Code gerado para acessar o site facilmente a partir de seu celular ou qualquer dispositivo.
 
-## Como Contribuir
 
-Se você gostaria de fazer contribuições neste
